@@ -1,0 +1,9 @@
+# aiogram
+# pytesseract
+# pillow
+# gTTS
+# torch
+# torchaudio
+# PyPDF2
+# python-docx
+# pandas
